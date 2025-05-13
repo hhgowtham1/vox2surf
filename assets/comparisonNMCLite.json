@@ -1,0 +1,302 @@
+[
+    {
+        "model_ID": "00020627",
+        "GT": "./assets/data/random_selected_items/Voxs/00020627.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00020627.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00020627.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00020627.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00020627.obj"
+        }
+    },
+    {
+        "model_ID": "00021135",
+        "GT": "./assets/data/random_selected_items/Voxs/00021135.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00021135.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00021135.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00021135.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00021135.obj"
+        }
+    },
+    {
+        "model_ID": "00021292",
+        "GT": "./assets/data/random_selected_items/Voxs/00021292.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00021292.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00021292.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00021292.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00021292.obj"
+        }
+    },
+    {
+        "model_ID": "00022046",
+        "GT": "./assets/data/random_selected_items/Voxs/00022046.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00022046.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00022046.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00022046.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00022046.obj"
+        }
+    },
+    {
+        "model_ID": "00022181",
+        "GT": "./assets/data/random_selected_items/Voxs/00022181.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00022181.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00022181.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00022181.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00022181.obj"
+        }
+    },
+    {
+        "model_ID": "00022266",
+        "GT": "./assets/data/random_selected_items/Voxs/00022266.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00022266.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00022266.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00022266.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00022266.obj"
+        }
+    },
+    {
+        "model_ID": "00022802",
+        "GT": "./assets/data/random_selected_items/Voxs/00022802.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00022802.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00022802.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00022802.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00022802.obj"
+        }
+    },
+    {
+        "model_ID": "00024653",
+        "GT": "./assets/data/random_selected_items/Voxs/00024653.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00024653.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00024653.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00024653.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00024653.obj"
+        }
+    },
+    {
+        "model_ID": "00025546",
+        "GT": "./assets/data/random_selected_items/Voxs/00025546.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00025546.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00025546.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00025546.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00025546.obj"
+        }
+    },
+    {
+        "model_ID": "00026843",
+        "GT": "./assets/data/random_selected_items/Voxs/00026843.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00026843.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00026843.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00026843.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00026843.obj"
+        }
+    },
+    {
+        "model_ID": "00028164",
+        "GT": "./assets/data/random_selected_items/Voxs/00028164.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00028164.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00028164.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00028164.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00028164.obj"
+        }
+    },
+    {
+        "model_ID": "00028844",
+        "GT": "./assets/data/random_selected_items/Voxs/00028844.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00028844.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00028844.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00028844.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00028844.obj"
+        }
+    },
+    {
+        "model_ID": "00030168",
+        "GT": "./assets/data/random_selected_items/Voxs/00030168.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00030168.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00030168.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00030168.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00030168.obj"
+        }
+    },
+    {
+        "model_ID": "00031354",
+        "GT": "./assets/data/random_selected_items/Voxs/00031354.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00031354.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00031354.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00031354.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00031354.obj"
+        }
+    },
+    {
+        "model_ID": "00031360",
+        "GT": "./assets/data/random_selected_items/Voxs/00031360.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00031360.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00031360.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00031360.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00031360.obj"
+        }
+    },
+    {
+        "model_ID": "00032707",
+        "GT": "./assets/data/random_selected_items/Voxs/00032707.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00032707.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00032707.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00032707.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00032707.obj"
+        }
+    },
+    {
+        "model_ID": "00035451",
+        "GT": "./assets/data/random_selected_items/Voxs/00035451.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00035451.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00035451.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00035451.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00035451.obj"
+        }
+    },
+    {
+        "model_ID": "00037763",
+        "GT": "./assets/data/random_selected_items/Voxs/00037763.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00037763.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00037763.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00037763.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00037763.obj"
+        }
+    },
+    {
+        "model_ID": "00038568",
+        "GT": "./assets/data/random_selected_items/Voxs/00038568.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00038568.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00038568.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00038568.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00038568.obj"
+        }
+    },
+    {
+        "model_ID": "00039209",
+        "GT": "./assets/data/random_selected_items/Voxs/00039209.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00039209.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00039209.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00039209.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00039209.obj"
+        }
+    },
+    {
+        "model_ID": "00041836",
+        "GT": "./assets/data/random_selected_items/Voxs/00041836.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00041836.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00041836.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00041836.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00041836.obj"
+        }
+    },
+    {
+        "model_ID": "00044139",
+        "GT": "./assets/data/random_selected_items/Voxs/00044139.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00044139.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00044139.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00044139.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00044139.obj"
+        }
+    },
+    {
+        "model_ID": "00044648",
+        "GT": "./assets/data/random_selected_items/Voxs/00044648.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00044648.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00044648.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00044648.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00044648.obj"
+        }
+    },
+    {
+        "model_ID": "00045758",
+        "GT": "./assets/data/random_selected_items/Voxs/00045758.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00045758.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00045758.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00045758.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00045758.obj"
+        }
+    },
+    {
+        "model_ID": "00046179",
+        "GT": "./assets/data/random_selected_items/Voxs/00046179.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00046179.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00046179.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00046179.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00046179.obj"
+        }
+    },
+    {
+        "model_ID": "00103244",
+        "GT": "./assets/data/random_selected_items/Voxs/00103244.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00103244.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00103244.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00103244.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00103244.obj"
+        }
+    },
+    {
+        "model_ID": "00103286",
+        "GT": "./assets/data/random_selected_items/Voxs/00103286.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00103286.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00103286.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00103286.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00103286.obj"
+        }
+    },
+    {
+        "model_ID": "00103318",
+        "GT": "./assets/data/random_selected_items/Voxs/00103318.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00103318.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00103318.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00103318.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00103318.obj"
+        }
+    },
+    {
+        "model_ID": "00049020",
+        "GT": "./assets/data/random_selected_items/Voxs/00049020.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00049020.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00049020.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00049020.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00049020.obj"
+        }
+    },
+    {
+        "model_ID": "00105262",
+        "GT": "./assets/data/random_selected_items/Voxs/00105262.off",
+        "models": {
+            "sharpVox": "./assets/data/random_selected_items/SharpVoxel/00105262.obj",
+            "NMC": "./assets/data/random_selected_items/NMC/00105262.obj",
+            "NDC": "./assets/data/random_selected_items/NDC/00105262.obj",
+            "NMC_Lite": "./assets/data/random_selected_items/NMC_Lite/00105262.obj"
+        }
+    }
+]
