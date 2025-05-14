@@ -4157,8 +4157,7 @@ html body {
     Et.jsx("p", {children: "Expected time required to finish the study: 15-20 minutes"}),
     Et.jsx("p", {children: "Thank you very much for your participation!"})
   ]
-});
-
+})}var aE={exports:{}},oE={};/**
  * @license React
  * use-sync-external-store-with-selector.production.js
  *
