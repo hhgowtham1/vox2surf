@@ -4150,7 +4150,7 @@ html body {
   children: [
     Et.jsx("h1", {children: "Voxel to Surface User Study"}),
     Et.jsx("p", {children: "The objective is to generate a smooth surface mesh from a blocky (voxelized) mesh."}),
-    Et.jsx("p", {children: "Instructions: You will be shown a cube-based (voxel) model on the left. Envision in your mind how a piece-wise smooth approximation of this shape should look. Then, compare it to the two smooth alternatives on the right and select the one that best matches the model you imagined. In simple words, choose the meshes that are both visually pleasing (looking smooth & good) and geometrically faithful."}),
+    Et.jsx("p", {children: "Instructions: You will be shown a cube-based (voxel) model on the left. Envision in your mind how a piece-wise smooth approximation of this shape should look. Then, compare it to the two smooth alternatives on the right and select the one that best matches the model you imagined. In simple words, choose the meshes that are both visually pleasing (looking smooth & good) and geometrically faithful to the voxel models shown in the first column."}),
     Et.jsx("p", {children: "The study consists of 3 sets of comparisons (30 models each), presented in random order."}),
     Et.jsx("p", {children: "Note: Rotate or zoom the models freely to inspect details. Take your time – there’s no rush!"}),
     Et.jsx("p", {children: "Expected completion time: 15–20 minutes"}),
