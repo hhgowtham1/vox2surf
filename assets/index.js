@@ -4150,13 +4150,11 @@ html body {
   children: [
     Et.jsx("h1", {children: "Voxel to Surface User Study"}),
     Et.jsx("p", {children: "The objective is to generate a smooth surface mesh from a blocky (voxelized) mesh."}),
-    Et.jsx("p", {children: "Your task is to pick the most beautiful (visually pleasing) result that matches the input blocky mesh (first column)."}),
-    Et.jsx("p", {children: "The user study consists of 3 sets of comparisons (30 models each) in completely random order."}),
-    Et.jsx("p", {children: "Please pick the mesh that you think is “looking good” and “smooth”."}),
-    Et.jsx("p", {children: "Note: Carefully examine each model. If needed, interactively zoom or rotate to inspect details before making your choice."}),
-    Et.jsx("p", {children: "Expected time required to finish the study: 15-20 minutes"}),
-    Et.jsx("p", {children: "Thank you very much for your participation!"})
-  ]
+    Et.jsx("p", {children: "Your task: You will be shown a cube-based (voxel) model on the left. Envision in your mind how a piece-wise smooth approximation of this shape should look. Then, compare it to the two smooth alternatives on the right and select the one that best matches the model you imagined. In simple words, choose the meshes that are both visually pleasing (looking smooth & good) and geometrically faithful."}),
+    Et.jsx("p", {children: "The study consists of 3 sets of comparisons (30 models each), presented in random order."}),
+    Et.jsx("p", {children: "Note: Rotate or zoom the models freely to inspect details. Take your time – there’s no rush!"}),
+    Et.jsx("p", {children: "Expected completion time: 15–20 minutes"}),
+    Et.jsx("p", {children: "Thank you very much for participating!"})]
 })}var aE={exports:{}},oE={};/**
  * @license React
  * use-sync-external-store-with-selector.production.js
